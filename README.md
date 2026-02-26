@@ -29,9 +29,9 @@
 C++
 
 ## Запуск
-Открыть терминал в VS Code и выполнить (X — номер задания):
-g++ TaskX.cpp -o TaskX
-./TaskX
+Открыть терминал в VS Code и выполнить (X — номер задания):  
+g++ TaskX.cpp -o TaskX  
+./TaskX  
 
 ---
 # EN
@@ -65,6 +65,6 @@ abstract data structures.
 C++
 
 ## How to Run
-Open terminal in VS Code and execute (X — task number):
-g++ TaskX.cpp -o TaskX
-./TaskX
+Open terminal in VS Code and execute (X — task number):  
+g++ TaskX.cpp -o TaskX  
+./TaskX  
